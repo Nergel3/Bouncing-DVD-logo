@@ -2,7 +2,7 @@
 A javascript bouncing DVD logo.
 
 ## Réalisation
-L'ensemble des explications se trouve * [ici](https://negrel.wordpress.com/blog/)
+L'ensemble des explications se trouve [ici](https://negrel.wordpress.com/blog/)
 
 ### Source
 
